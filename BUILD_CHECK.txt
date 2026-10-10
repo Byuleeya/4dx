@@ -1,0 +1,17 @@
+ENDGAME 4DX RELAY WATCHER BUILD CHECK
+
+[OK] relay only
+[OK] no direct CGV API
+[OK] target theater
+[OK] target date
+[OK] target time
+[OK] movie keyword
+[OK] format keyword
+[OK] remaining keys
+[OK] increase only
+[OK] baseline preserved errors
+[OK] telegram
+[OK] no login
+[OK] no browser dependency
+[OK] node --check app.mjs
+[OK] JSON configs
